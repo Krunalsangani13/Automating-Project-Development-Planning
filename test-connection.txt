@@ -1,2 +1,3 @@
 this is check to connection.
+Testing Jira integration
 KAN-2 Test connection from GitHub to Jira
