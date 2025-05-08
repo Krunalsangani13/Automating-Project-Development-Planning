@@ -1,1 +1,0 @@
-KAN-1 Test connection from GitHub to Jira
