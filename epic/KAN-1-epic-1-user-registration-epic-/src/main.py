@@ -1,0 +1,3 @@
+# Main script for Epic 1: User Registration Epic...
+
+print('Hello from KAN-1')
