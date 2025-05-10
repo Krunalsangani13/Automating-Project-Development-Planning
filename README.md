@@ -57,6 +57,7 @@ Automated-Project-Development-Planning/
 ├── T-2/  # GitHub Repo Setup
 ├── T-3/  # Test Case Generation
 ├──Streamlit App  # All task with GUI.
+├──Demo video like.txt
 └── README.md
 
 📹 Demo Video
