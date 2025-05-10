@@ -53,9 +53,9 @@ python-docx for .docx file processing.
 
 📦 Project Structure
 Automated-Project-Development-Planning/
-├── Task-1/  # Jira Ticket Creation
-├── Task-2/  # GitHub Repo Setup
-├── Task-3/  # Test Case Generation
+├── T-1/  # Jira Ticket Creation
+├── T-2/  # GitHub Repo Setup
+├── T-3/  # Test Case Generation
 ├──Streamlit App  # All task with GUI.
 └── README.md
 
